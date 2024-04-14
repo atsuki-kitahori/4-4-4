@@ -1,2 +1,5 @@
 <?php
-echo 'Welcome TECH QUEST!';
+$word = 'orange';
+$wordUpperCase = strtoupper($word);
+echo $wordUpperCase;
+?>
